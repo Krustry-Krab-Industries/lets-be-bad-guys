@@ -1,5 +1,7 @@
 # Shiny, Let's Be Bad Guys: Exploiting and Mitigating the Top 10 Web App Vulnerabilities
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7aacc1c9f0f74fe99a59475b8510bdb3)](https://app.codacy.com/gh/Krustry-Krab-Industries/lets-be-bad-guys?utm_source=github.com&utm_medium=referral&utm_content=Krustry-Krab-Industries/lets-be-bad-guys&utm_campaign=Badge_Grade_Dashboard)
+
 The Internet is a dangerous place, filled with evildoers out to attack your code
 for fun or profit, so it's not enough to just ship your awesome new web app--you
 have to take the security of your application, your users, and your data
